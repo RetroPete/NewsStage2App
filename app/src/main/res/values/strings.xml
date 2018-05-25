@@ -1,0 +1,78 @@
+<resources>
+    <string name="app_name">NewsStage2App</string>
+
+    <string name="no_news">No news found.</string>
+
+    <string name="no_internet_connection">No internet connection.</string>
+
+    <string name="showTags">show-tags</string>
+
+    <string name="contributor">contributor</string>
+
+    <string name="q">q</string>
+
+    <string name="apiKey">api-key</string>
+
+    <string name="apiKeyToken">1759c47f-983d-431f-b7e1-7c5c7f2f35a7</string>
+
+    <string name="all">all</string>
+    <string name="and">and</string>
+    <string name="art">art</string>
+    <string name="australia">australia</string>
+    <string name="life">life</string>
+    <string name="television">television</string>
+    <string name="tv">tv</string>
+    <string name="uk">uk</string>
+    <string name="us">us</string>
+    <string name="world">world</string>
+
+    <string name="All">All</string>
+    <string name="artAndDesign">Art and Design</string>
+    <string name="australianNews">Australia News</string>
+    <string name="books">Books</string>
+    <string name="business">Business</string>
+    <string name="culture">Culture</string>
+    <string name="education">Education</string>
+    <string name="environment">Environment</string>
+    <string name="fashion">Fashion</string>
+    <string name="film">Film</string>
+    <string name="football">Football</string>
+    <string name="inequality">Inequality</string>
+    <string name="lifeAndStyle">Life and Style</string>
+    <string name="media">Media</string>
+    <string name="membership">Membership</string>
+    <string name="money">Money</string>
+    <string name="music">Music</string>
+    <string name="news">News</string>
+    <string name="opinion">Opinion</string>
+    <string name="politics">Politics</string>
+    <string name="science">Science</string>
+    <string name="society">Society</string>
+    <string name="sport">Sport</string>
+    <string name="stage">Stage</string>
+    <string name="technology">Technology</string>
+    <string name="televisionAndRadio">Television and Radio</string>
+    <string name="travel">Travel</string>
+    <string name="ukNews">UK News</string>
+    <string name="usNews">US News</string>
+    <string name="worldNews">World News</string>
+
+    <string name="settings_menu_item">Settings</string>
+
+    <string name="settings_title">News Settings</string>
+
+    <string name="settings_category_label">Category</string>
+    <string name="settings_category_key" translatable="false">Category</string>
+    <string name="settings_category_default" translatable="false">All</string>
+
+    <string name="settings_order_by_label">Order by Number</string>
+    <string name="settings_order_by_key" translatable="false">order_by</string>
+    <string name="settings_order_by_default" translatable="false">@string/settings_order_by_category_value</string>
+
+    <string name="settings_order_by_category_label">Category</string>
+    <string name="settings_order_by_category_value" translatable="false">10</string>
+
+    <string name="settings_order_by_most_recent_label">Most Recent</string>
+    <string name="settings_order_by_most_recent_value" translatable="false">time</string>
+
+</resources>
